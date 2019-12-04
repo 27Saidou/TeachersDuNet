@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alpha and Saidou</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="welcome">LES TEACHERS DU NET</string>
+    <string name="pooser_logo">POOSER LOGO</string>
+    <string name="nbre_copines_actuel">Vous avez 3 copines actu</string>
+    <string name="new_girl">J\' ai une nouvelle copine</string>
+    <string name="new_ex">J\'ai perdu une copine</string>
+</resources>
